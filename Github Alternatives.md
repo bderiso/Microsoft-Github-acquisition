@@ -1,4 +1,4 @@
-The heart of the issue is healthy competition (indeed, the antitrust proceedings against Microsoft in the 90's).
+The heart of the issue is healthy competition (indeed, the anti-trust proceedings against Microsoft in the 90's were focused on that problem).
 It is very understandable Github's market-share and Microsoft's industry dominace would make this asquisition scary for those who value 
 Github's independance.
 
