@@ -1,6 +1,6 @@
 https://blog.github.com/2018-06-04-github-microsoft/
 
-#A bright future for GitHub
+# A bright future for GitHub
 
 I am very excited to announce that Microsoft is acquiring GitHub and expect the agreement to close by the end of the year. While it will still take a few months to finalize, we wanted to share the news as soon as we were able.
 
