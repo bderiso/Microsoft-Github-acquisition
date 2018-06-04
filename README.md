@@ -12,6 +12,8 @@ This repositroy aims to accept thoughtful contributions all sides of the issue &
 
 [Some Github alternatives](https://github.com/bderiso/Microsoft-Github-acquisition/blob/master/Github's%20responce.md)
 
+[A collection of relevant comments about this topic on Github & across the web.](https://github.com/bderiso/Microsoft-Github-acquisition/issues)
+
 # Motivation for this repo
 In response to the [IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) repo, there is a need for open-minded discussion about all aspects of the issue.
 
