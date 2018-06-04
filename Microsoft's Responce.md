@@ -1,6 +1,6 @@
+# Microsoft + GitHub = Empowering Developers
 https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
 
-Microsoft + GitHub = Empowering Developers
 Jun 4, 2018	  |  	Satya Nadella - Chief Executive Officer, Microsoft
 
 Today, we announced an agreement to acquire GitHub, the world’s leading software development platform. I want to share what this acquisition will mean for our industry and for developers.
