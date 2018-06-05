@@ -4,16 +4,18 @@ Github's independance.
 
 To that end, here is a partial, alphabetical list of alternatives to github:
 
-* [Bitbucket](https://bitbucket.org/)
-* [Fossil](https://www.fossil-scm.org)
-* [The "Fossies" Software Archive](https://fossies.org/)
-* [fresh(code) - Open source software release tracking](http://freshcode.club/)
-* [Gitea](https://gitea.io)
-* [GitLab](https://about.gitlab.com/)
-* [Gogs](https://gogs.io/)
-* [NotABug](https://notabug.org/about)
-* [Pagure](https://pagure.io)
-* [SIT](https://sit.fyi/)
+Provider | Git Repo Hosting | Pull Requests / Code Review | 
+--- | --- | --- 
+**[Bitbucket](https://bitbucket.org/)** | :+1: | :question: 
+**[Fossil](https://www.fossil-scm.org)** | :question: | :question: 
+**[The "Fossies" Software Archive](https://fossies.org/)** | :question: | :question: 
+**[fresh(code) - Open source software release tracking](http://freshcode.club/)** | :question: | :question: 
+**[Gitea](https://gitea.io)** | :question: | :question: 
+**[GitLab](https://about.gitlab.com/)** | :question: | :question: 
+**[Gogs](https://gogs.io/)** | :question: | :question: 
+**[NotABug](https://notabug.org/about)** | :question: | :question: 
+**[Pagure](https://pagure.io)** | :question: | :question: 
+**[SIT](https://sit.fyi/)** | :question: | :question: 
 
 ----
 # Thanks
