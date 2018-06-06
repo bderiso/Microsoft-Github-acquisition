@@ -1,7 +1,10 @@
 # Microsoft Github acquisition
 Information &amp; debate about the acquisition
 
-[According to Bloomberg, Microsoft has agreed to acquire GitHub, and could announce the deal as soon as Monday.](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github?)
+#### [*Please read our code of conduct before contributing*](https://github.com/bderiso/Microsoft-Github-acquisition/blob/master/CODE_OF_CONDUCT.md)
+----
+
+[Microsoft has announced an agreement to acquire GitHub](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)
 
 This repositroy aims to accept thoughtful contributions all sides of the issue & we encourage linking to in-depth analysis and discussion.
 
