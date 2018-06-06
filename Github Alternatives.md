@@ -4,18 +4,11 @@ Github's independance.
 
 To that end, here is a partial, alphabetical list of alternatives to github:
 
-Provider | Git Hosting | PR / Code Review |  Issues / Project Management | Collaboration / Teams | Community / Social network | Documentation | Open Source | Decentralized | Extensibility API | Federation | Mattermost/Matrix/Riot Integration | Available online instance | Self-hosting (own premises) | Continuous Integration / Deployment | Project Webhosting | Private Repos | Free of charge | Ccommunity Development | Scalablity | High availability 
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-**[Bitbucket](https://bitbucket.org/)** | :+1: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[Fossil](https://www.fossil-scm.org)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[The "Fossies" Software Archive](https://fossies.org/)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[fresh(code) - Open source software release tracking](http://freshcode.club/)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[Gitea](https://gitea.io)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[GitLab](https://about.gitlab.com/)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[Gogs](https://gogs.io/)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[NotABug](https://notabug.org/about)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[Pagure](https://pagure.io)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
-**[SIT](https://sit.fyi/)** | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question: | :question:
+<object data="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdf">
+        <a href="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdfpdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ----
 # Thanks
