@@ -2,18 +2,35 @@ The heart of the issue is healthy competition (indeed, the anti-trust proceeding
 It is very understandable Github's market-share and Microsoft's industry dominace would make this asquisition scary for those who value 
 Github's independance.
 
-To that end, here is a partial, alphabetical list of alternatives to github:
+To that end, [here is a partial, alphabetical list of alternatives to github](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-fQMNLyHMidtdF0AlM_RCRm9e1rSDRLch3uzPj4zrA03_930SPUF7z7UMA5E90owmWyTXXnOIfOke/pubhtml):
 
-<object data="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdf">
-        <a href="https://github.com/bderiso/Microsoft-Github-acquisition/blob/features-table/GitHub%20alternatives%20-%20comparison.pdfpdf">Download PDF</a>.</p>
-    </embed>
-</object>
+| |Bitbucket|Fossil|Fossies|fresh(code)|Gitea|GitLab|Gogs|NotABug|Pagure|SIT|Scuttlebot|Git-SSB|GitCenter
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+|Git repo hosting|✅|❔|❌|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Private repositories|✅|❔|❌|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|PR / Code reviewing|✅|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Issues / Project management|✅|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Collaboration / Teams|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Community / Social network|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Documentation|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Open source|❌|❔|❔|❔|✅|✅|✅|❔|❔|❔|❔|❔|❔
+|Decentralized ownership|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Extensibility API|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Federation|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Mattermost/Matrix/Riot integration|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Available online instance|✅|❔|❔|❔|❌|✅|❌|❔|❔|❔|❔|❔|❔
+|Self-hosting (own premises)|✅|❔|❔|❔|❔|✅|❔|❔|❔|❔|❔|❔|❔
+|CI/CD|✅|❔|❔|❔|❔|✅|❔|❔|❔|❔|❔|❔|❔
+|Project website hosting|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Free of charge|❌|❔|❔|❔|✅|❔|✅|❔|❔|❔|❔|❔|❔
+|Development done by the community|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|Scalable|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
+|High availability|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
 
 ----
 # Thanks
 
-This features list was correlated by [Serphentas](https://github.com/Serphentas).
+This features list was correlated by [Serphentas](https://github.com/Serphentas) & [bderiso](https://github.com/bderiso).
 
 The following people posted linked which I found helpful for compiling this document:
 
