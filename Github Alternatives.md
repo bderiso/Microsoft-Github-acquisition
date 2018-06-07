@@ -1,31 +1,10 @@
+This document is deprecated, please visit the [wiki entry here](https://github.com/bderiso/Microsoft-Github-acquisition/wiki/GitHub-Alternatives) or [contribute to the Google Sheet](https://docs.google.com/spreadsheets/d/1LZryaOx4VYHQ_oWLtRjvFrr4RhVjR484eFe7du3Usa4/edit?usp=sharing):
+
+
+#
 The heart of the issue is healthy competition (indeed, the anti-trust proceedings against Microsoft in the 90's were focused on that problem).
 It is very understandable Github's market-share and Microsoft's industry dominace would make this asquisition scary for those who value 
 Github's independance.
-
-To that end, [here is a partial, alphabetical list of alternatives to github](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-fQMNLyHMidtdF0AlM_RCRm9e1rSDRLch3uzPj4zrA03_930SPUF7z7UMA5E90owmWyTXXnOIfOke/pubhtml):
-
-| |Bitbucket|Fossil|Fossies|fresh(code)|Gitea|GitLab|Gogs|NotABug|Pagure|SIT|Scuttlebot|Git-SSB|GitCenter
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---
-|Git repo hosting|✅|❔|❌|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Private repositories|✅|❔|❌|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|PR / Code reviewing|✅|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Issues / Project management|✅|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Collaboration / Teams|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Community / Social network|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Documentation|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Open source|❌|❔|❔|❔|✅|✅|✅|❔|❔|❔|❔|❔|❔
-|Decentralized ownership|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Extensibility API|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Federation|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Mattermost/Matrix/Riot integration|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Available online instance|✅|❔|❔|❔|❌|✅|❌|❔|❔|❔|❔|❔|❔
-|Self-hosting (own premises)|✅|❔|❔|❔|❔|✅|❔|❔|❔|❔|❔|❔|❔
-|CI/CD|✅|❔|❔|❔|❔|✅|❔|❔|❔|❔|❔|❔|❔
-|Project website hosting|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Free of charge|❌|❔|❔|❔|✅|❔|✅|❔|❔|❔|❔|❔|❔
-|Development done by the community|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|Scalable|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
-|High availability|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔|❔
 
 ----
 # Thanks
