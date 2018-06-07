@@ -1,13 +1,5 @@
- A list of features that we want from a replacement
+This document is deprecated, please visit the [wiki entry here](https://github.com/bderiso/Microsoft-Github-acquisition/wiki/GitHub-Alternatives) or contribute to the [Google Sheet](https://docs.google.com/spreadsheets/d/1LZryaOx4VYHQ_oWLtRjvFrr4RhVjR484eFe7du3Usa4/edit?usp=sharing):
 
-* [Git repo hosting](https://github.com/features#code-hosting)
-  * Public
-  * Private
-* [Pull Requests / Code Review](https://github.com/features#code-review)
-* [Issue Tracking / Project Management](https://github.com/features#project-management)
-* [Collaboration / Team Management](https://github.com/features#team-management)
-* [Community / Social Network](https://github.com/features#social-coding)
-* [Documentation](https://github.com/features#documentation)
-* Open-Source
-* Decentralized ownership & management
-* Extensibility API
+#
+
+ A list of features that we want from a replacement.
