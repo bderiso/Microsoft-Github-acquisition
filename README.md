@@ -8,6 +8,9 @@ Information &amp; debate about the acquisition
 
 This repositroy aims to accept thoughtful contributions all sides of the issue & we encourage linking to in-depth analysis and discussion.
 
+# Work in progress
+[Comparison of GitHub alternatives](https://github.com/bderiso/Microsoft-Github-acquisition/wiki/GitHub-Alternatives)
+
 # Links
 [Github's Response](https://blog.github.com/2018-06-04-github-microsoft/)
 
